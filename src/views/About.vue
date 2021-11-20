@@ -1,5 +1,5 @@
 <template>
-	<h1>this is an about page </h1>
+	<h1>this is an about page</h1>
 	<button type="button" @click="state.count++">count is: {{ state.count }}</button>
 </template>
 
